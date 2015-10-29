@@ -1,9 +1,9 @@
-# momentum
-A (hopefully) unique variant of the classic to-do list.
+momentum - simple planning and progress tracking tool
 ===========================
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
+momentum is a (hopefully) unique variant of the classic to-do list.
 The main philosophies of the momentum project are as follows.
 * Must offer a visual progress indicator
 * Simple, uncluttered interface
