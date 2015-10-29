@@ -1,5 +1,8 @@
 # momentum
 A (hopefully) unique variant of the classic to-do list.
+===========================
+
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 The main philosophies of the momentum project are as follows.
 * Must offer a visual progress indicator
