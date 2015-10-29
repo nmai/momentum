@@ -28,7 +28,7 @@ As for UI and control layout, I am not 100% sure. This will take some experiment
 * controls on the right somewhere. I want them close to the items but far enough that the user has plenty of space to write lengthier item descriptions. i'm thinking of a light gray circle with a checkmark, or perhaps just a status indicator like "not done" "in progress" "complete". clickable of course. 
 * controls only get appended to lines that actually contain valid entries. headers and blank lines will be ignored.
 
-**concepts to ponder most thoghtfully at a later juncture:**
+**concepts to ponder at a later juncture:**
 * I want my items draggable. Figure out best approach.
 * Should there be any magic formatting when a valid entry line is inputted, sort of like those tag things I was talking about? 
 
